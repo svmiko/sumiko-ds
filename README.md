@@ -8,7 +8,7 @@
 - Data Science project from research, data cleaning, exploratory data analysis for prediction of credit card fraud using classification methods
 
 ### Classification Problems
-#### [Credit card default classification using neural network and PCA(https://github.com/svmiko/sumiko-ds/blob/main/neural%20network/cc_default.ipynb)
+#### [Credit card default classification using neural network and PCA](https://github.com/svmiko/sumiko-ds/blob/main/neural%20network/cc_default.ipynb)
 - Practice classification problem on credit card default using neural network classification and exploring different model specification and PCA
 ### Regression Problems 
 #### [LASSO Regression using auto-MPG dataset with hyperparameter tuning](https://github.com/svmiko/sumiko-ds/blob/main/machine%20learning/autompg%20lasso.ipynb)
