@@ -10,6 +10,8 @@
 ### Classification Problems
 #### [Credit card default classification using neural network and PCA](https://github.com/svmiko/sumiko-ds/blob/main/neural%20network/cc_default.ipynb)
 - Practice classification problem on credit card default using neural network classification and exploring different model specification and PCA
+#### [Convolutional neural network for object identification](https://github.com/svmiko/sumiko-ds/blob/main/neural%20network/cnn_fashion.ipynb)
+- Using convolutional neural network to do image classification on fashion MNIST
 ### Regression Problems 
 #### [LASSO Regression using auto-MPG dataset with hyperparameter tuning](https://github.com/svmiko/sumiko-ds/blob/main/machine%20learning/autompg%20lasso.ipynb)
 - Practice regression problem on classic auto-MPG dataset with exploration of hyperparameter selection using cross-validation
