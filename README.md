@@ -1,5 +1,8 @@
 ## Data Science Portfolio by Sumiko
 ### Data Science Projects
+#### [Multi Modal Skin Disease Diagnosis Model](https://github.com/svmiko/skindiagnosis)
+- Research project on multi-modal computer vision (VGG-16) and natural language (BERT) model to diagnose skin diseases of 4 classes from images and textual symptoms achieving 88% accuracy on validation set exceeding single-modal models performance
+- Dataset is from Dermnet (images) and text symptoms dataset is web-scraped using Beautiful Soup
 #### [NUSecure Security Monitoring Proof of Concept](https://github.com/NUSJiaying/dsa3101-2310-06-security)
 - An integrated proof of concept using AWS EC2 featuring a Flask dashboard app for incident monitoring, a mySQL database and machine learning pipeline for time series forecasting future incident rates and case prioritisation
 #### [American Sign Language Computer Vision Application](https://github.com/ooawagaeri/HiFiveASL)
