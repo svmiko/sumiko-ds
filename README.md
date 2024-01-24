@@ -1,5 +1,7 @@
 ## Data Science Portfolio by Sumiko
 ### Data Science Projects
+#### [NUSecure Security Monitoring Proof of Concept](https://github.com/NUSJiaying/dsa3101-2310-06-security)
+- An integrated proof of concept using AWS EC2 featuring a Flask dashboard app for incident monitoring, a mySQL database and machine learning pipeline for time series forecasting future incident rates and case prioritisation
 #### [American Sign Language Computer Vision Application](https://github.com/ooawagaeri/HiFiveASL)
 - NUS Orbital Project involving computer vision, machine learning and visual design to translate and teach American Sign Language to a greater audience.
 #### [Predicting concrete strength using regression](https://github.com/svmiko/sumiko-ds/blob/main/machine%20learning/concrete_regression.ipynb)
